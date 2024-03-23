@@ -7,3 +7,8 @@ At most 6 players can play at the same time. You could also add 1 or more AI pla
 The download link of executable:<br>
 [https://pan.baidu.com/s/1KTT0q9z37-qsIi7T1APU9A](https://pan.baidu.com/s/1KTT0q9z37-qsIi7T1APU9A)<br>
 password: wqn5
+
+<center>
+<img src="screenshot1.JPG" width="40%" />
+<img src="screenshot2.JPG" width="40%" />
+</center>
